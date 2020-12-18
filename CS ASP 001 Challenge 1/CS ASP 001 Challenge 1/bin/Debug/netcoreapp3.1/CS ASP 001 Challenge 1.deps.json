@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS ASP 001 Challenge 1/1.0.0": {
+        "runtime": {
+          "CS ASP 001 Challenge 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS ASP 001 Challenge 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

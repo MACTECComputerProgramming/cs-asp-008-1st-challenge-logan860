@@ -1,0 +1,19 @@
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\bin\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.exe
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\bin\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.deps.json
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\bin\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.runtimeconfig.json
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\bin\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.runtimeconfig.dev.json
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\bin\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.dll
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\bin\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.pdb
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.csprojAssemblyReference.cache
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\CS ASP 001 Challenge 1_MarkupCompile.cache
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\CS ASP 001 Challenge 1_MarkupCompile.lref
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.g.resources
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.AssemblyInfoInputs.cache
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.AssemblyInfo.cs
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.csproj.CoreCompileInputs.cache
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.dll
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.pdb
+C:\Users\maconrm180\source\repos\CS ASP 001 Challenge 1\CS ASP 001 Challenge 1\obj\Debug\netcoreapp3.1\CS ASP 001 Challenge 1.genruntimeconfig.cache
